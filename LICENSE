@@ -1,0 +1,21 @@
+MultiApp Binary Use License
+
+Copyright (c) 2026 sunholdshen. All rights reserved, except as stated below.
+
+Permission is granted, free of charge, to download, install, and run official
+MultiApp binary distributions for personal or business use.
+
+From version 0.1.0-beta.2 onward, newly authored changes are proprietary.
+Except for the binary-use permission above or a separate written permission,
+no license is granted to copy, modify, redistribute, sublicense, or sell those
+new proprietary changes. Source code is not publicly distributed.
+
+This notice does not revoke, replace, or restrict permissions already granted
+for MultiApp 0.1.0-beta.1 and its previously MIT-licensed portions. Those
+portions remain subject to the historical MIT notice reproduced in
+licenses/MIT-0.1.0-beta.1.txt (MIT-0.1.0-beta.1.txt in application bundles).
+Third-party materials retain their respective rights and licenses.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHOR SHALL NOT BE
+LIABLE FOR CLAIMS, DAMAGES, OR OTHER LIABILITY ARISING FROM ITS USE.
