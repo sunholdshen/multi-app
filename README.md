@@ -4,7 +4,7 @@
 
 本仓库只提供安装包、使用说明、更新记录和问题反馈，**不提供应用源码**。源码与开发历史由作者私有维护。
 
-[下载安装包](https://github.com/sunholdshen/multi-app/releases) · [首次打开图文指南](docs/first-launch.md) · [使用与维护](docs/usage.md) · [更新记录](CHANGELOG.md) · [反馈问题](https://github.com/sunholdshen/multi-app/issues)
+[下载安装包](https://github.com/sunholdshen/multi-app/releases) · [首次打开图文指南](docs/first-launch.md) · [应用内更新](docs/updates.md) · [使用与维护](docs/usage.md) · [更新记录](CHANGELOG.md) · [反馈问题](https://github.com/sunholdshen/multi-app/issues)
 
 ## 安装
 
@@ -27,10 +27,15 @@ Releases 自动生成的 **Source code (zip/tar.gz)** 仅包含本仓库的说�
 
 本指南适用于未验证／未公证提示。如果系统明确提示“已损坏”或检测到恶意软件，请先查看指南中的对应处理方式。无需关闭系统安全保护。
 
+## 升级已有安装
+
+beta.4 及更早版本需要手动下载一次新版并替换 `MultiApp.app`。从 **beta.5** 起，可在「关于 MultiApp → 检查更新…」中下载安装，默认每天检查；也可开启「自动下载并在退出时安装」。已有飞书副本和账号数据保留，详见 [软件更新说明](docs/updates.md)。
+
 ## 功能
 
 - 创建多个副本，自定义名称与颜色，分别登录与同时运行。
 - **图标数字角标**：保留原应用图标，在右下角内侧附加 1–99 的自定义序号，支持改色、预览和关闭。
+- **应用内更新**：检查新版、下载安装并重启管理器，支持自动检查及可选的退出时安装。
 - 启动副本、查看运行状态、打开独立数据目录。
 - 使用新版原飞书重建副本，保留副本数据。
 - 移除时只把受管应用移到废纸篓，保留登录和聊天数据。
