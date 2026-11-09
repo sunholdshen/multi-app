@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="530" viewBox="0 0 1040 530" role="img" aria-labelledby="title desc">
+  <title id="title">MultiApp 首次打开操作流程</title>
+  <desc id="desc">第一步下载并移入应用程序；第二步双击，遇到无法验证提示时关闭提示；第三步进入系统设置的隐私与安全性，找到 MultiApp 并点击仍要打开；第四步完成系统认证并确认打开。此图为操作示意图。</desc>
+  <rect width="1040" height="530" rx="24" fill="#f5f7fb"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+    <text x="40" y="52" font-size="25" font-weight="700" fill="#17243b">首次打开 MultiApp</text>
+    <text x="40" y="80" font-size="15" fill="#59697f">仅在核对下载来源后，为这个应用确认一次打开。</text>
+    <g>
+      <rect x="40" y="108" width="466" height="164" rx="16" fill="#ffffff" stroke="#dce3ed"/>
+      <circle cx="72" cy="142" r="17" fill="#1769e0"/>
+      <text x="72" y="148" text-anchor="middle" font-size="17" font-weight="700" fill="#ffffff">1</text>
+      <text x="104" y="149" font-size="21" font-weight="600" fill="#17243b">下载与安装</text>
+      <rect x="64" y="174" width="196" height="40" rx="8" fill="#eef4ff"/>
+      <text x="162" y="200" text-anchor="middle" font-size="17" fill="#1855a9">MultiApp.app</text>
+      <path d="M276 194 H304 M296 187 L304 194 L296 201" fill="none" stroke="#1769e0" stroke-width="2.5"/>
+      <rect x="320" y="174" width="160" height="40" rx="8" fill="#eef4ff"/>
+      <text x="400" y="200" text-anchor="middle" font-size="17" fill="#1855a9">应用程序</text>
+      <text x="64" y="245" font-size="16" fill="#59697f">从项目 Releases 下载，解压后拖入。</text>
+    </g>
+    <g>
+      <rect x="534" y="108" width="466" height="164" rx="16" fill="#ffffff" stroke="#dce3ed"/>
+      <circle cx="566" cy="142" r="17" fill="#1769e0"/>
+      <text x="566" y="148" text-anchor="middle" font-size="17" font-weight="700" fill="#ffffff">2</text>
+      <text x="598" y="149" font-size="21" font-weight="600" fill="#17243b">先尝试打开一次</text>
+      <text x="558" y="190" font-size="17" fill="#17243b">双击 MultiApp.app</text>
+      <text x="558" y="219" font-size="16" fill="#59697f">如提示“无法验证开发者”，先关闭提示，</text>
+      <text x="558" y="245" font-size="16" fill="#59697f">保留应用，再进行下一步。</text>
+    </g>
+    <g>
+      <rect x="40" y="292" width="466" height="164" rx="16" fill="#ffffff" stroke="#dce3ed"/>
+      <circle cx="72" cy="326" r="17" fill="#1769e0"/>
+      <text x="72" y="332" text-anchor="middle" font-size="17" font-weight="700" fill="#ffffff">3</text>
+      <text x="104" y="333" font-size="21" font-weight="600" fill="#17243b">前往隐私与安全性</text>
+      <text x="64" y="374" font-size="17" fill="#17243b">系统设置 → 隐私与安全性 → 安全性</text>
+      <text x="64" y="414" font-size="16" fill="#59697f">找到 MultiApp 对应的提示</text>
+      <rect x="342" y="390" width="138" height="40" rx="9" fill="#1769e0"/>
+      <text x="411" y="416" text-anchor="middle" font-size="17" font-weight="600" fill="#ffffff">仍要打开</text>
+    </g>
+    <g>
+      <rect x="534" y="292" width="466" height="164" rx="16" fill="#ffffff" stroke="#dce3ed"/>
+      <circle cx="566" cy="326" r="17" fill="#1769e0"/>
+      <text x="566" y="332" text-anchor="middle" font-size="17" font-weight="700" fill="#ffffff">4</text>
+      <text x="598" y="333" font-size="21" font-weight="600" fill="#17243b">确认并开始使用</text>
+      <text x="558" y="374" font-size="17" fill="#17243b">按系统提示认证，再确认“打开”。</text>
+      <text x="558" y="407" font-size="16" fill="#59697f">之后通常可以直接双击启动；</text>
+      <text x="558" y="433" font-size="16" fill="#59697f">更新版本后可能需要再次确认。</text>
+    </g>
+    <text x="40" y="494" font-size="14" fill="#59697f">操作示意图 · 非系统截图 · 按钮名称和提示顺序以你的 macOS 界面为准</text>
+  </g>
+</svg>

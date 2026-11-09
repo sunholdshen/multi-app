@@ -4,17 +4,28 @@
 
 本仓库只提供安装包、使用说明、更新记录和问题反馈，**不提供应用源码**。源码与开发历史由作者私有维护。
 
-[下载安装包](https://github.com/sunholdshen/multi-app/releases) · [使用与维护](docs/usage.md) · [更新记录](CHANGELOG.md) · [反馈问题](https://github.com/sunholdshen/multi-app/issues)
+[下载安装包](https://github.com/sunholdshen/multi-app/releases) · [首次打开图文指南](docs/first-launch.md) · [使用与维护](docs/usage.md) · [更新记录](CHANGELOG.md) · [反馈问题](https://github.com/sunholdshen/multi-app/issues)
 
 ## 安装
 
 1. 在 Releases 中下载对应芯片的 ZIP：M 系列选择 `arm64`，Intel 选择 `x86_64`。
 2. 解压，将 `MultiApp.app` 拖入「应用程序」。需要 macOS 13 或更高版本。
-3. 选择本机已安装的官方飞书，点击「新建副本」，完成后在副本中登录另一个账号。
+3. 双击打开 MultiApp。若提示无法验证开发者，按下方图文指南完成首次打开。
+4. 选择本机已安装的官方飞书，点击「新建副本」，完成后在副本中登录另一个账号。
 
 普通使用无需 Python、Homebrew、Xcode 或管理员权限。发布包仅包含管理器，不含飞书客户端、聊天记录或账号数据。
 
 Releases 自动生成的 **Source code (zip/tar.gz)** 仅包含本仓库的说明文档，不包含 MultiApp 程序源码；请下载以 `MultiApp-` 开头的安装包。
+
+### 首次打开提示“无法验证开发者”？
+
+先尝试打开 MultiApp，再进入 ** → 系统设置 → 隐私与安全性 → 安全性 → 仍要打开**，按系统提示认证并确认打开。
+
+[![MultiApp 首次打开操作流程图](docs/images/first-launch-flow.svg)](docs/first-launch.md)
+
+**[查看完整图文操作指南 →](docs/first-launch.md)**（含 Apple 官方界面示例、“仍要打开”按钮位置及常见问题）
+
+本指南适用于未验证／未公证提示。如果系统明确提示“已损坏”或检测到恶意软件，请先查看指南中的对应处理方式。无需关闭系统安全保护。
 
 ## 功能
 
