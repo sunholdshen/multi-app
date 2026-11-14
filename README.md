@@ -4,7 +4,9 @@
 
 本仓库只提供安装包、使用说明、更新记录和问题反馈，**不提供应用源码**。源码与开发历史由作者私有维护。
 
-[下载安装包](https://github.com/sunholdshen/multi-app/releases) · [首次打开图文指南](docs/first-launch.md) · [应用内更新](docs/updates.md) · [使用与维护](docs/usage.md) · [更新记录](CHANGELOG.md) · [反馈问题](https://github.com/sunholdshen/multi-app/issues)
+[下载安装包](https://github.com/sunholdshen/multi-app/releases) · [首次打开图文指南](docs/first-launch.md) · [应用内更新](docs/updates.md) · [链接打开方式](docs/links.md) · [使用与维护](docs/usage.md) · [更新记录](CHANGELOG.md) · [反馈问题](https://github.com/sunholdshen/multi-app/issues)
+
+**beta.6 新增链接打开方式：** 在 MultiApp 中启用后，浏览器点击「在飞书中打开」可以每次选择原版或副本，也可设置默认飞书。粘贴链接入口允许临时选择其他实例，已有副本无需重建。
 
 ## 安装
 
