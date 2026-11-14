@@ -6,17 +6,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/sunholdshen/multi-app</link>
     <language>zh-CN</language>
     <item>
-      <title>MultiApp 0.1.0-beta.5</title>
-      <pubDate>Mon, 09 Nov 2026 14:12:12 +0000</pubDate>
-      <sparkle:version>5</sparkle:version>
-      <sparkle:shortVersionString>0.1.0-beta.5</sparkle:shortVersionString>
+      <title>MultiApp 0.1.0-beta.6</title>
+      <pubDate>Sat, 14 Nov 2026 08:09:59 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description>新增应用内检查更新、下载、安装和重启。默认每天自动检查，可选择自动下载并在退出 MultiApp 时安装。更新管理器会保留已有飞书副本、图标设置和账号数据。正在创建或重建副本时会等待操作结束。
+      <description>新增「链接打开方式」：浏览器唤起飞书时，可每次选择原版或副本，也可设置默认飞书。支持粘贴链接临时选择其他实例，提供恢复原打开方式。登录授权及未知链接始终询问。已有飞书副本无需重建或重新登录；更新后在左侧「链接打开方式」点击「启用链接选择」即可使用。
 </description>
-      <enclosure url="https://github.com/sunholdshen/multi-app/releases/download/v0.1.0-beta.5/MultiApp-0.1.0-beta.5-arm64.zip" length="2508121" type="application/octet-stream" sparkle:edSignature="cnERWaV55rZKX8TFuQEYbC3HC/alslZph8g1wSqudaR79+fnnHyamm6r/n6hawqFKF1E8GwAo/HlEm+9ulyKCQ=="></enclosure>
+      <enclosure url="https://github.com/sunholdshen/multi-app/releases/download/v0.1.0-beta.6/MultiApp-0.1.0-beta.6-arm64.zip" length="2635032" type="application/octet-stream" sparkle:edSignature="zU6ueaVtlHhpC0RuAmrbwK/HSwuvTT/uvEGBE0jO6WulNhMWANyt3zpFap6R7QX//7SYQKMO5XIKs5wCgrr5Bg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: JtwMD1OBJsHPW5NMhAwE9jqhOA5gSMQnK7eVMkI5ij8g9zDZbDLQgD6HfJQD1aEyjzrP2IHTBoJg4+jpk1gzCQ==
-length: 1458
+edSignature: L2KQe/aYNOKcRedKPo0Ha+TnckQz9PhgzlGRyUEKyuziaJR5hGnkoFACdzQLCOk4rk5P2QbaQyUFKuJFtxIFBg==
+length: 1562
 -->
